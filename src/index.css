@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.todos {
+  margin-top: 3rem;
+}
+
+.collection-item blockquote {
+  border-left-color: teal !important;
+}
+
+.collection-item h6 {
+  cursor: pointer;
+}
+
+.add-todo {
+  margin-top: 2rem;
+}
